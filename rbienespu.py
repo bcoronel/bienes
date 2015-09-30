@@ -419,7 +419,7 @@ class bienes(osv.osv):
        
     #@api.onchange('grupo_bien_id')
     #def onchange_grupo(self):
-          #self.clasificador_bien_id = self.clasificador_bien_id.clasificador_nombre
+          #self.clasificador_bien_id = ''
           
     #@api.onchange('clasificador_bien_id')
     #def onchange_clasif(self):
